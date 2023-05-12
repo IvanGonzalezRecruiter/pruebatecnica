@@ -1,11 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../../../../../../xampp/htdocs/Prueba Técnica"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../../../../../../xampp/htdocs/Prueba Técnica"
+        }
+    ]
 }
